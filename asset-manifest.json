@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/car-tracking/static/css/main.2b67e59b.css",
+    "main.js": "/car-tracking/static/js/main.2ad6fe5f.js",
+    "static/js/453.2589463d.chunk.js": "/car-tracking/static/js/453.2589463d.chunk.js",
+    "index.html": "/car-tracking/index.html",
+    "main.2b67e59b.css.map": "/car-tracking/static/css/main.2b67e59b.css.map",
+    "main.2ad6fe5f.js.map": "/car-tracking/static/js/main.2ad6fe5f.js.map",
+    "453.2589463d.chunk.js.map": "/car-tracking/static/js/453.2589463d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b67e59b.css",
+    "static/js/main.2ad6fe5f.js"
+  ]
+}
